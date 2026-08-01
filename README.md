@@ -1,4 +1,4 @@
-# Daniel Jeong
+![Daniel Jeong - Discord community operations](banner.gif)
 
 I manage Discord communities for a living and build the automation they run on. So far that's 155+ companies and 12,000+ hours inside Discord. The largest of them grew to 1.7 million members while I ran it.
 
