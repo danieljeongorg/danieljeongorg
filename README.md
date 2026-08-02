@@ -42,18 +42,9 @@ The client side lives at [danieljeong.org](https://danieljeong.org). This profil
 - **[Vetted](https://www.vetted.cv)**: invite-only network for elite video creators.
 - **[No Gimmicks Recs](https://www.nogimmicksrecs.com)**: independent house music label.
 
-## What I build
+## Automations, workflows, and AI integrations
 
-Off-the-shelf bots rarely do what a server actually needs, so I build the missing piece. Sixteen custom bots and automation systems so far, nearly all shipped inside private client servers rather than public repos. The commit graph undersells it.
-
-| Layer | What I work with |
-|---|---|
-| Custom bots | CC Bot, YAGPDB, Sapphire, Dyno, Discord.js |
-| Safety | AutoMod regex, anti-raid, verification gates, spam and scam filters |
-| Onboarding and engagement | Welcome flows, reaction roles, ticket systems |
-| Embeds and announcements | Discohook Components v2, webhook pipelines |
-| Motion assets | Animated server banners: HTML → Playwright → ffmpeg pipeline |
-| Integrations | Custom MCP servers in TypeScript, CRM webhooks, agentic AI workflows |
+Most of what I build ships inside private client servers, so the commit graph undersells it. To find out which automations, custom bots, workflows, and AI integrations would fit your community best, head to [danieljeong.org](https://danieljeong.org/bots).
 
 ## How I think about community
 
@@ -77,3 +68,4 @@ If your server was built wrong, I'll tell you directly. That's the [community au
 [![X](https://img.shields.io/badge/@danieljeong__org-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/danieljeong_org)
 [![YouTube](https://img.shields.io/badge/@danieljeong__org-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@danieljeong_org)
 [![TikTok](https://img.shields.io/badge/@danieljeong.org-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@danieljeong.org)
+
