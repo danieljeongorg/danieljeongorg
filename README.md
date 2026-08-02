@@ -1,4 +1,4 @@
-![Daniel Jeong - Discord community operations](banner.gif)
+![Helping businesses improve their Discord community](header.jpg)
 
 I manage Discord communities for a living and build the automation they run on. So far that's 155+ companies and 12,000+ hours inside Discord. The largest of them grew to 1.7 million members while I ran it.
 
@@ -19,7 +19,7 @@ Off-the-shelf bots rarely do what a server actually needs, so I build the missin
 |---|---|
 | Custom bots | CC Bot, YAGPDB, Sapphire, Dyno, Discord.js |
 | Safety | AutoMod regex, anti-raid, verification gates, spam and scam filters |
-| Onboarding and engagement | Welcome flows, reaction roles, leveling and XP, ticket systems |
+| Onboarding and engagement | Welcome flows, reaction roles, ticket systems |
 | Embeds and announcements | Discohook Components v2, webhook pipelines |
 | Motion assets | Animated server banners: HTML → Playwright → ffmpeg pipeline |
 | Integrations | Custom MCP servers in TypeScript, CRM webhooks, agentic AI workflows |
