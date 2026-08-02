@@ -11,6 +11,10 @@ The client side lives at [danieljeong.org](https://danieljeong.org). This profil
 - At **Sapien.io**, I took an 80,000-member Web3 and AI server that had turned into a complaint hub and rebuilt it into a working developer community with 24/7 mod coverage.
 - The other 150 or so engagements were smaller: server builds, moderation setups, bot builds, engagement programs. Eighteen of those clients wrote reviews. All eighteen came back five stars.
 
+## Companies I've worked with
+
+![Google Developers, Sapien, WagmiTrades, Moonvalley, and BlueWillow logos](brands.png)
+
 ## What I build
 
 Off-the-shelf bots rarely do what a server actually needs, so I build the missing piece. Sixteen custom bots and automation systems so far, nearly all shipped inside private client servers rather than public repos. The commit graph undersells it.
