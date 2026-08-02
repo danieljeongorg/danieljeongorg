@@ -13,7 +13,7 @@ The client side lives at [danieljeong.org](https://danieljeong.org). This profil
 
 ## Companies I've worked with
 
-![Client brands: Google Developers, Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, Parryverse, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, NerdFocus, Mangrove, Fomo.ai, Gleam, Varsity Gripz, Visual Sectors, DianToz, AppleCore, Vetted, and No Gimmicks Recs](brands.png)
+![Client brands: Google Developers, Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, Parryverse, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, NerdFocus, Mangrove, Fomo.ai, Gleam, Varsity Gripz, Visual Sectors, DianToz, AppleCore, Vetted, No Gimmicks Recs, Virtus Capital, Junk Bond Investor, Pinkfish, AgentVoice, Commerce Social, Collab Collective, Kaido, Silo Finance, and WE Global Marketing](brands.png)
 
 **The names behind the logos:**
 
@@ -41,6 +41,15 @@ The client side lives at [danieljeong.org](https://danieljeong.org). This profil
 - **[AppleCore](https://www.applecore.trade)**: trading education community.
 - **[Vetted](https://www.vetted.cv)**: invite-only network for elite video creators.
 - **[No Gimmicks Recs](https://www.nogimmicksrecs.com)**: independent house music label.
+- **[Virtus Capital](https://www.virtuscapital.io)**: algorithmic wealth management.
+- **[Junk Bond Investor](https://www.junkbondinvestor.com)**: high-yield and distressed credit analysis newsletter.
+- **[Pinkfish](https://www.pinkfish.ai)**: enterprise AI agent platform, acquired by Genesys.
+- **[AgentVoice](https://agentvoice.com)**: AI voice agents for business phone operations.
+- **[Commerce Social](https://commercesocial.co)**: TikTok Shop commerce agency.
+- **[Collab Collective](https://collabcollective.us)**: vetted creator community for TikTok Shop brand deals.
+- **[Kaido](https://gokaido.com/marketplace)**: anime and fandom marketplace.
+- **[Silo Finance](https://www.silo.finance)**: decentralized lending protocol.
+- **[WE Global Marketing](https://www.weglobalmarketing.com)**: certified TikTok Shop partner agency.
 
 ## Automations, workflows, and AI integrations
 
