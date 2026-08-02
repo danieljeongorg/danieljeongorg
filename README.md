@@ -13,42 +13,62 @@ The client side lives at [danieljeong.org](https://danieljeong.org). This profil
 
 ## Companies I've worked with
 
-![Client brands: Google Developers, Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, Parryverse, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, NerdFocus, Mangrove, Fomo.ai, Gleam, Varsity Gripz, Visual Sectors, DianToz, AppleCore, Vetted, No Gimmicks Recs, Virtus Capital, Junk Bond Investor, Pinkfish, AgentVoice, Commerce Social, Collab Collective, Kaido, Silo Finance, and WE Global Marketing](brands.png)
+![Client brands: Google Developers, Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, Parryverse, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, NerdFocus, Mangrove, Fomo.ai, Gleam, Varsity Gripz, Visual Sectors, DianToz, AppleCore, Vetted, No Gimmicks Recs, Virtus Capital, Junk Bond Investor, Pinkfish, AgentVoice, Commerce Social, Collab Collective, Kaido, Silo Finance, WE Global Marketing, Emy BFF, Atoms, and Shred Island](brands.png)
 
 **The names behind the logos:**
 
+#### SaaS, AI & Developer Platforms
+
 - **[Google Developers](https://developers.google.com)**: Google's global developer community. Head of Moderation for Google Developer Groups for 1.5 years.
-- **[Sapien](https://sapien.io)**: Web3 and AI data foundry. Rebuilt and ran its 80,000-member Discord.
-- **WagmiTrades**: crypto trading community.
 - **[Moonvalley](https://moonvalley.com)**: AI video generation company.
 - **[BlueWillow](https://www.bluewillow.ai)**: AI image generation. Grew its Discord from 1,000 to 1.7 million members.
-- **[Live Traders](https://livetraders.com)**: trading education and live trading rooms.
-- **[Pure Daily Care](https://puredailycare.com)**: skincare and wellness devices brand. Moderation engagement.
-- **[Parryverse](https://www.roblox.com/communities/361311171/Parryverse)**: Parry Gripp's official Roblox universe. Discord community work.
-- **[TMMB](https://tmmbagency.com)**: TikTok Shop affiliate agency. Coaching community server build.
-- **[MSK Labs](https://www.msklabs.com)**: sunless tanning beauty brand. Affiliate creator Discord.
-- **[Enrich Trades](https://enrichtrades.com)**: options trading mentorship community.
-- **[Terez & Honor](https://terezandhonor.com)**: skincare brand. Creator community onboarding.
-- **[Hellava](https://www.hellava.co)**: functional gummy supplement brand.
-- **[The Artillery](https://whop.com/tiktok-exitoso-digital-ent/)**: TikTok Shop creator and UGC community.
-- **[NerdFocus](https://nerdfocus.com)**: nootropic focus energy drink.
-- **[Mangrove](https://mangrove.ai)**: AI-powered digital asset trading platform.
 - **[Fomo.ai](https://fomo.ai)**: AI search marketing platform.
 - **[Gleam](https://trygleam.app)**: social skills training app.
-- **[Varsity Gripz](https://www.varsitygripz.com)**: licensed gaming controller grips.
-- **[Visual Sectors](https://visualsectors.com)**: options data trading indicators.
-- **[DianToz](https://diantoz.com)**: sci-fi YouTube storytelling universe.
-- **[AppleCore](https://www.applecore.trade)**: trading education community.
-- **[Vetted](https://www.vetted.cv)**: invite-only network for elite video creators.
-- **[No Gimmicks Recs](https://www.nogimmicksrecs.com)**: independent house music label.
-- **[Virtus Capital](https://www.virtuscapital.io)**: algorithmic wealth management.
-- **[Junk Bond Investor](https://www.junkbondinvestor.com)**: high-yield and distressed credit analysis newsletter.
 - **[Pinkfish](https://www.pinkfish.ai)**: enterprise AI agent platform, acquired by Genesys.
 - **[AgentVoice](https://agentvoice.com)**: AI voice agents for business phone operations.
+- **[Atoms](https://atoms.dev)**: AI agent app builder from the MetaGPT team.
+- **[Emy BFF](https://emybff.com)**: Emy World, the AI virtual pet companion app.
+
+#### Web3 & Crypto
+
+- **[Sapien](https://sapien.io)**: Web3 and AI data foundry. Rebuilt and ran its 80,000-member Discord.
+- **[Silo Finance](https://www.silo.finance)**: decentralized lending protocol.
+- **[Mangrove](https://mangrove.ai)**: AI-powered digital asset trading platform.
+
+#### Trading & Finance
+
+- **WagmiTrades**: crypto trading community.
+- **[Live Traders](https://livetraders.com)**: trading education and live trading rooms.
+- **[Enrich Trades](https://enrichtrades.com)**: options trading mentorship community.
+- **[Visual Sectors](https://visualsectors.com)**: options data trading indicators.
+- **[AppleCore](https://www.applecore.trade)**: trading education community.
+- **[Virtus Capital](https://www.virtuscapital.io)**: algorithmic wealth management.
+- **[Junk Bond Investor](https://www.junkbondinvestor.com)**: high-yield and distressed credit analysis newsletter.
+
+#### Gaming & Entertainment
+
+- **[Parryverse](https://www.roblox.com/communities/361311171/Parryverse)**: Parry Gripp's official Roblox universe. Discord community work.
+- **[Varsity Gripz](https://www.varsitygripz.com)**: licensed gaming controller grips.
+- **[DianToz](https://diantoz.com)**: sci-fi YouTube storytelling universe.
+- **[Kaido](https://gokaido.com/marketplace)**: anime and fandom marketplace.
+- **[Shred Island](https://www.fortnite.com/@code36/0875-5132-5368)**: Fortnite skate and moto park by the code36 team.
+- **[No Gimmicks Recs](https://www.nogimmicksrecs.com)**: independent house music label.
+
+#### eCommerce & Consumer Brands
+
+- **[Pure Daily Care](https://puredailycare.com)**: skincare and wellness devices brand. Moderation engagement.
+- **[MSK Labs](https://www.msklabs.com)**: sunless tanning beauty brand. Affiliate creator Discord.
+- **[Terez & Honor](https://terezandhonor.com)**: skincare brand. Creator community onboarding.
+- **[Hellava](https://www.hellava.co)**: functional gummy supplement brand.
+- **[NerdFocus](https://nerdfocus.com)**: nootropic focus energy drink.
+
+#### TikTok Shop & Creator Economy
+
+- **[TMMB](https://tmmbagency.com)**: TikTok Shop affiliate agency. Coaching community server build.
+- **[The Artillery](https://whop.com/tiktok-exitoso-digital-ent/)**: TikTok Shop creator and UGC community.
+- **[Vetted](https://www.vetted.cv)**: invite-only network for elite video creators.
 - **[Commerce Social](https://commercesocial.co)**: TikTok Shop commerce agency.
 - **[Collab Collective](https://collabcollective.us)**: vetted creator community for TikTok Shop brand deals.
-- **[Kaido](https://gokaido.com/marketplace)**: anime and fandom marketplace.
-- **[Silo Finance](https://www.silo.finance)**: decentralized lending protocol.
 - **[WE Global Marketing](https://www.weglobalmarketing.com)**: certified TikTok Shop partner agency.
 
 ## Automations, workflows, and AI integrations
