@@ -39,7 +39,7 @@ That's also why I don't sell member growth. The members a brand has already earn
 
 ## Work with me
 
-If your server was built wrong, I'll tell you directly. Services and pricing are on the site, and my DMs are open on LinkedIn and X.
+If your server was built wrong, I'll tell you directly. That's the [community audit](https://danieljeong.org/discord-community-audit): structure, moderation, onboarding, engagement, and a written action plan. The [first analysis is free](https://danieljeong.org/free-analysis), delivered within 24 hours. My DMs are open on LinkedIn and X, and services and pricing are on the site.
 
 [![Website](https://img.shields.io/badge/danieljeong.org-0d7c4a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danieljeong.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieljeongorg)
