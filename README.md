@@ -13,7 +13,7 @@ The client side lives at [danieljeong.org](https://danieljeong.org). This profil
 
 ## Companies I've worked with
 
-![Google Developers, Sapien, WagmiTrades, Moonvalley, and BlueWillow logos](brands.png)
+![Client brands: Google Developers, Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, and Parryverse](brands.png)
 
 ## What I build
 
@@ -46,7 +46,7 @@ That's also why I don't sell member growth. The members a brand has already earn
 If your server was built wrong, I'll tell you directly. That's the [community audit](https://danieljeong.org/discord-community-audit): structure, moderation, onboarding, engagement, and a written action plan. The [first analysis is free](https://danieljeong.org/free-analysis), delivered within 24 hours. My DMs are open on LinkedIn and X, and services and pricing are on the site.
 
 [![Website](https://img.shields.io/badge/danieljeong.org-0d7c4a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danieljeong.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieljeongorg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48IS0tISBGb250IEF3ZXNvbWUgRnJlZSA2LjUuMiBieSBAZm9udGF3ZXNvbWUgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbSBMaWNlbnNlIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20vbGljZW5zZS9mcmVlIChJY29uczogQ0MgQlkgNC4wLCBGb250czogU0lMIE9GTCAxLjEsIENvZGU6IE1JVCBMaWNlbnNlKSBDb3B5cmlnaHQgMjAyNCBGb250aWNvbnMsIEluYy4gLS0%2BPHBhdGggZmlsbD0id2hpdGVzbW9rZSIgZD0iTTQxNiAzMkgzMS45QzE0LjMgMzIgMCA0Ni41IDAgNjQuM3YzODMuNEMwIDQ2NS41IDE0LjMgNDgwIDMxLjkgNDgwSDQxNmMxNy42IDAgMzItMTQuNSAzMi0zMi4zVjY0LjNjMC0xNy44LTE0LjQtMzIuMy0zMi0zMi4zek0xMzUuNCA0MTZINjlWMjAyLjJoNjYuNVY0MTZ6bS0zMy4yLTI0M2MtMjEuMyAwLTM4LjUtMTcuMy0zOC41LTM4LjVTODAuOSA5NiAxMDIuMiA5NmMyMS4yIDAgMzguNSAxNy4zIDM4LjUgMzguNSAwIDIxLjMtMTcuMiAzOC41LTM4LjUgMzguNXptMjgyLjEgMjQzaC02Ni40VjMxMmMwLTI0LjgtLjUtNTYuNy0zNC41LTU2LjctMzQuNiAwLTM5LjkgMjctMzkuOSA1NC45VjQxNmgtNjYuNFYyMDIuMmg2My43djI5LjJoLjljOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjlWNDE2eiIvPjwvc3ZnPg%3D%3D)](https://linkedin.com/in/danieljeongorg)
 [![X](https://img.shields.io/badge/@danieljeong__org-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/danieljeong_org)
 [![YouTube](https://img.shields.io/badge/@danieljeong__org-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@danieljeong_org)
 [![TikTok](https://img.shields.io/badge/@danieljeong.org-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@danieljeong.org)
