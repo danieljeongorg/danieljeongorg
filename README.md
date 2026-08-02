@@ -13,7 +13,7 @@ The client side lives at [danieljeong.org](https://danieljeong.org). This profil
 
 ## Companies I've worked with
 
-![Client brands: Google Developers, Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, and Parryverse](brands.png)
+![Client brands: Google Developers, Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, Parryverse, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, NerdFocus, Mangrove, Fomo.ai, Gleam, Varsity Gripz, Visual Sectors, DianToz, AppleCore, Vetted, and No Gimmicks Recs](brands.png)
 
 ## What I build
 
