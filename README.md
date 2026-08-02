@@ -15,6 +15,33 @@ The client side lives at [danieljeong.org](https://danieljeong.org). This profil
 
 ![Client brands: Google Developers, Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, Parryverse, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, NerdFocus, Mangrove, Fomo.ai, Gleam, Varsity Gripz, Visual Sectors, DianToz, AppleCore, Vetted, and No Gimmicks Recs](brands.png)
 
+**The names behind the logos:**
+
+- **[Google Developers](https://developers.google.com)**: Google's global developer community. Head of Moderation for Google Developer Groups for 1.5 years.
+- **[Sapien](https://sapien.io)**: Web3 and AI data foundry. Rebuilt and ran its 80,000-member Discord.
+- **WagmiTrades**: crypto trading community.
+- **[Moonvalley](https://moonvalley.com)**: AI video generation company.
+- **[BlueWillow](https://www.bluewillow.ai)**: AI image generation. Grew its Discord from 1,000 to 1.7 million members.
+- **[Live Traders](https://livetraders.com)**: trading education and live trading rooms.
+- **[Pure Daily Care](https://puredailycare.com)**: skincare and wellness devices brand. Moderation engagement.
+- **[Parryverse](https://www.roblox.com/communities/361311171/Parryverse)**: Parry Gripp's official Roblox universe. Discord community work.
+- **[TMMB](https://tmmbagency.com)**: TikTok Shop affiliate agency. Coaching community server build.
+- **[MSK Labs](https://www.msklabs.com)**: sunless tanning beauty brand. Affiliate creator Discord.
+- **[Enrich Trades](https://enrichtrades.com)**: options trading mentorship community.
+- **[Terez & Honor](https://terezandhonor.com)**: skincare brand. Creator community onboarding.
+- **[Hellava](https://www.hellava.co)**: functional gummy supplement brand.
+- **[The Artillery](https://whop.com/tiktok-exitoso-digital-ent/)**: TikTok Shop creator and UGC community.
+- **[NerdFocus](https://nerdfocus.com)**: nootropic focus energy drink.
+- **[Mangrove](https://mangrove.ai)**: AI-powered digital asset trading platform.
+- **[Fomo.ai](https://fomo.ai)**: AI search marketing platform.
+- **[Gleam](https://trygleam.app)**: social skills training app.
+- **[Varsity Gripz](https://www.varsitygripz.com)**: licensed gaming controller grips.
+- **[Visual Sectors](https://visualsectors.com)**: options data trading indicators.
+- **[DianToz](https://diantoz.com)**: sci-fi YouTube storytelling universe.
+- **[AppleCore](https://www.applecore.trade)**: trading education community.
+- **[Vetted](https://www.vetted.cv)**: invite-only network for elite video creators.
+- **[No Gimmicks Recs](https://www.nogimmicksrecs.com)**: independent house music label.
+
 ## What I build
 
 Off-the-shelf bots rarely do what a server actually needs, so I build the missing piece. Sixteen custom bots and automation systems so far, nearly all shipped inside private client servers rather than public repos. The commit graph undersells it.
