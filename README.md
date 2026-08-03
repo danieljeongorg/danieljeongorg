@@ -97,4 +97,5 @@ If your server was built wrong, I'll tell you directly. That's the [community au
 [![X](https://img.shields.io/badge/@danieljeong__org-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/danieljeong_org)
 [![YouTube](https://img.shields.io/badge/@danieljeong__org-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@danieljeong_org)
 [![TikTok](https://img.shields.io/badge/@danieljeong.org-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@danieljeong.org)
+[![Instagram](https://img.shields.io/badge/@danieljeong.org__discord-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danieljeong.org_discord)
 
