@@ -13,7 +13,7 @@ The client side lives at [danieljeong.org](https://danieljeong.org). This profil
 
 ## Companies I've worked with
 
-![Client brands: Google Developers, Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, Parryverse, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, NerdFocus, Mangrove, Fomo.ai, Gleam, Varsity Gripz, Visual Sectors, DianToz, AppleCore, Vetted, No Gimmicks Recs, Virtus Capital, Junk Bond Investor, Pinkfish, AgentVoice, Commerce Social, Collab Collective, Kaido, Silo Finance, WE Global Marketing, Emy BFF, Atoms, and Shred Island](brands.png)
+![Client brands: Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, Parryverse, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, NerdFocus, Mangrove, Fomo.ai, Gleam, Varsity Gripz, Visual Sectors, DianToz, AppleCore, Vetted, No Gimmicks Recs, Virtus Capital, Junk Bond Investor, Pinkfish, AgentVoice, Commerce Social, Collab Collective, Kaido, Silo Finance, WE Global Marketing, Emy BFF, Atoms, and Shred Island](brands.png)
 
 **The names behind the logos:**
 
