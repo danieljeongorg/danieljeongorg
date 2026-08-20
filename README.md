@@ -4,7 +4,7 @@ I manage Discord communities for a living and build the automation they run on. 
 
 The client side lives at [danieljeong.org](https://danieljeong.org). This profile is the builder side.
 
-## Proof, not adjectives
+## Track record
 
 - I managed **BlueWillow.ai**'s Discord as it grew from 1,000 to 1.7 million members, the 2nd largest server in the world at the time, and it held a 15% engagement rate at that size.
 - I spent a year and a half as **Head of Moderation at Google Developer Groups**, running the mod team for one of the largest developer communities anywhere.
@@ -73,7 +73,7 @@ The client side lives at [danieljeong.org](https://danieljeong.org). This profil
 
 ## Automations, workflows, and AI integrations
 
-Most of what I build ships inside private client servers, so the commit graph undersells it. To find out which automations, custom bots, workflows, and AI integrations would fit your community best, head to [danieljeong.org](https://danieljeong.org/bots).
+Most of what I build ships inside private client servers, so the commit graph undersells it. The full list of what I build is at [danieljeong.org/bots](https://danieljeong.org/bots).
 
 ## How I think about community
 
